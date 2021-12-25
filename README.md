@@ -7,7 +7,7 @@
 ## 1. Begin with learning about Git and Github! How it works and learn about the various Commands.
 
 ### 1.1 Here is a Youtube tutorial
-* [Introduction to Github by Net Ninja](https://youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR) 
+* [Introduction to Git and Github by Net Ninja](https://youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR)
 
 ## 2. Contribute Here! Follow these steps (Better try it yourself first!)
 
