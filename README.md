@@ -1,5 +1,6 @@
 # Intro-WebD
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+![Visitor Badge](https://visitor-badges.glitch.me/?username=mannadamay12&repo=Intro-WebD)
 
 
 # Make your First Contribution here!
