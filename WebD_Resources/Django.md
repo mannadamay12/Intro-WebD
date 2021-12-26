@@ -1,5 +1,6 @@
 # Django Related Resources
-
+<p>Before learning Django, you need to know that it is a framework in Python. So start with Pyhton and then go on learning Django. If you know about Python, then it is completely fine to learn Django.</p>
+[Python Crash Course](https://www.coursera.org/learn/python-crash-course?specialization=google-it-automation#syllabus)
 1. [Django docs](https://docs.djangoproject.com/en/2.0/)
 2. [Django Girls](https://tutorial.djangogirls.org/en/)
 3. [Try DJANGO Tutorial Series (Videos)](https://www.youtube.com/playlist?list=PLEsfXFp6DpzTD1BD1aWNxS2Ep06vIkaeW)
