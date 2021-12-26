@@ -21,13 +21,13 @@ Fork this Repo by clicking on the Fork button on the top of this page. This will
 * Switch to the Directory where you want to Clone this Repo.
 * Run this Command
   ```
-  git clone https://github.com/<your-username>/Hello-World.git
+  git clone https://github.com/<your-username>/Intro-WebD.git
   ```
 
 ### 2.3 Create a branch
 Change to the Repo directory on your Computer by running
 ```
-cd Hello-World
+cd Intro-WebD
 ```
 Now create a branch
 ```
