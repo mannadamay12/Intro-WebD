@@ -5,5 +5,5 @@ I love to interact with people and know about them.
 Punjabi songs are my  fuel and i love do some new nuisnace whenver i am not serious and i am never serious hehe.
 Check out my [github](https://github.com/JhndaCoder) profile.
 
-JAI ML LASSI
+JAI MLSC
 
