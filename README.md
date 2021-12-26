@@ -40,7 +40,7 @@ git checkout -b mlsc#1
 ```
 
 ### 2.4 Make necessary changes
-* Go to [Contributors](https://github.com/manndamay12/Intro-WebD/tree/master/Contributors) directory
+* Go to [Contributors](https://github.com/mannadamay12/Intro-WebD/tree/main/Contributors) directory
 * Create a file
 * Write about Yourself (in any Language)
   - Name
